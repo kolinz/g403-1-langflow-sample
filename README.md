@@ -19,3 +19,5 @@ RAGで使う、ベクトルデータベース情報が正確であれば、こ�
 
 ファイル名：[RAG-Multi-LLM-RAGAS-Check-Workflow-JSON-output.json](https://github.com/kolinz/g403-1-langflow-sample/blob/main/RAG-Multi-LLM-RAGAS-Check-Workflow-JSON-output.json)
 
+## Langflowの拡張システム : 音声認識・音声合成・IoT連携
+[AI Staff Connector Langflow対応版](https://github.com/kolinz/ai-staff-connector/tree/dev-langflow)
