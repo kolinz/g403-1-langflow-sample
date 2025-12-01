@@ -20,4 +20,9 @@ RAGで使う、ベクトルデータベース情報が正確であれば、こ�
 ファイル名：[RAG-Multi-LLM-RAGAS-Check-Workflow-JSON-output.json](https://github.com/kolinz/g403-1-langflow-sample/blob/main/RAG-Multi-LLM-RAGAS-Check-Workflow-JSON-output.json)
 
 ## Langflowの拡張システム : 音声認識・音声合成・IoT連携
-[AI Staff Connector Langflow対応版](https://github.com/kolinz/ai-staff-connector/tree/dev-langflow)
+[AI Staff Connector Langflow対応版](https://github.com/kolinz/ai-staff-connector/tree/dev-langflow)：メタバースと現実世界を橋渡しするハイブリッド型デジタル職員システム。
+- 音声認識 : Watson Speech To Text , OpenAI Whisper（ローカル実行）の選択式
+- 音声合成 : Watson Text To Speech , VoiceVoxの選択式
+- IoT連携：Incoming/Outgoing Webhook機能があり、Node-REDとの連携が前提。Node-RED用のサンプルフローあり。
+- AIエージェントツール連携：DifyおよびLangflowに対応。Langflow経由で、watsonx.aiと連携。
+
